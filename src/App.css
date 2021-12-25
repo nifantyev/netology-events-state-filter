@@ -21,7 +21,8 @@ img {
 }
 
 .filters__item_active {
-  background-color: gray;
+  background-color: #777777;
+  color: white;
 }
 
 .filters__item:not(:last-child) {
